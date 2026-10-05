@@ -1,4 +1,4 @@
-public class PS2 {
+public class P2 {
 
     static class ListNode {
         int val;
